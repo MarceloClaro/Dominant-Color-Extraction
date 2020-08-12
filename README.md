@@ -6,7 +6,7 @@
 
 1. Read Image and convert it in to a tidy format to work with.
 
-2. Using Elbow method for `KMeasn Clustering Algorithm` **(UnsuperWised Learning)** , Find optimal number of clusters of given image.
+2. Using Elbow method for `KMeasn Clustering Algorithm` **(Unsupervised Learning)** , Find optimal number of clusters of given image.
 
 3. Recreate model with optimal number of Cluster.
 
